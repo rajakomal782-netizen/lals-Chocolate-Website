@@ -138,7 +138,7 @@ margin: 0px;
 .slide {
     position: absolute;
     width: 95%;
-    height: 65%;
+    height: 70%;
     top: 60%;           
     left: 50%;         
     transform: translate(-50%, -50%); /* centre adjustment */  
@@ -427,3 +427,4 @@ margin-right: 140px;
  height: 20% ;
 
 }
+
