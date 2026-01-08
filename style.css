@@ -141,9 +141,8 @@ margin: 0px;
     height: 65%;
     top: 60%;           
     left: 50%;         
-    transform: translate(-50%, -50%); /* centre adjustment */
-    background: radial-gradient(black) #fffdfd;  
-    opacity: 0;
+    transform: translate(-50%, -50%); /* centre adjustment */  
+    opacity: 1;
     transition: opacity 1s ease-in-out;
   margin-bottom: 30px;
   
@@ -426,4 +425,5 @@ height: auto;
   margin-top: -23px;
 margin-right: 140px;
  height: 20% ;
+
 }
