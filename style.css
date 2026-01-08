@@ -139,7 +139,7 @@ margin: 0px;
     position: absolute;
     width: 95%;
     height: 70%;
-    top: 60%;           
+    top: 50%;           
     left: 50%;         
     transform: translate(-50%, -50%); /* centre adjustment */  
     opacity: 1;
@@ -427,4 +427,5 @@ margin-right: 140px;
  height: 20% ;
 
 }
+
 
