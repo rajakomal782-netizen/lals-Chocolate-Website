@@ -3,10 +3,8 @@
 let currentIndex = 0;
 
 // Show the first slide initially
-slides[currentIndex].classList.add(".slide.active ");
 
 function showSlide(index) {
-    slides.forEach(slide => slide.classList.remove(".slide.active "));
     slides[index].classList.add(".slide.active ");
 }
 
