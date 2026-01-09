@@ -152,6 +152,7 @@ top: 55%;
 
 .slide.active {
   
+    opacity: 1;
     pointer-events: auto;
 }
 
