@@ -150,8 +150,11 @@ top: 55%;
 
 
 .slide.active {
+  
     opacity: 1;
+    pointer-events: auto;
 }
+
 
 .para{
  margin-top: 30px;  
