@@ -136,17 +136,16 @@ margin: 0px;
 
 
 .slide {
-    position: absolute;
-    width: 95%;
-    height: 70%;
-    top: 60%;           
-    left: 50%;         
-    transform: translate(-50%, -50%); /* centre adjustment */  
-    opacity: 1;
-    transition: opacity 1s ease-in-out;
-  margin-bottom: 10px;
-  
+  position: absolute;
+  width: 95%;
+  height: 70%;
+  top: 65%;              /* 60% → 65% (aur niche) */
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 1;
+  transition: opacity 1s ease-in-out;
 }
+
 
 
 .slide.active {
